@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/jakerambo/gulp-sass-glob-use-forward",
   "dependencies": {
-    "glob": "^11.0.1",
+    "glob": "^9.0.0",
     "slash": "^1.0.0",
     "through2": "^0.6.5"
   },
